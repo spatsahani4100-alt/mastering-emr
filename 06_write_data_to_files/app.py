@@ -18,5 +18,6 @@ def main():
     to_files(df_transformed, tgt_dir, tgt_file_format)
 
 
+print("my testing")
 if __name__ == '__main__':
     main()
