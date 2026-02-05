@@ -7,3 +7,6 @@ spark = SparkSession. \
     getOrCreate()
 
 spark.sql('SELECT current_date').show()
+
+
+print("testing of code push and commit")
